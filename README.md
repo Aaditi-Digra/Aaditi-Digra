@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **HealthGrid**
 
-- 🌱 I’m currently learning **javascript, data science**
+- 🌱 I’m a WEB DEVELOPER.
 
 - 📝 I regularly write articles on [www.linkedin.com/in/aaditi-digra-4a7207200](www.linkedin.com/in/aaditi-digra-4a7207200)
 
-- 💬 Ask me about **HTML, CSS, PHP, Bootstrap**
+- 💬 Ask me about **HTML, CSS, PHP, Bootstrap, Javascript, MySQL, Java, C++**
 
 - 📫 How to reach me **aaditidigra@gmail.com**
 
