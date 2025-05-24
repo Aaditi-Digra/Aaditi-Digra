@@ -9,11 +9,11 @@
 
 - 🌱 I’m a WEB DEVELOPER.
 
-- 📝 I regularly write articles on [www.linkedin.com/in/aaditi-digra-4a7207200](www.linkedin.com/in/aaditi-digra-4a7207200)
+- 📝 I regularly write articles on (www.linkedin.com/in/aaditi-digra)
 
 - 💬 Ask me about **HTML, CSS, PHP, Bootstrap, Javascript, MySQL, Java, C++**
 
-- 📫 How to reach me **aaditidigra@gmail.com**
+- 📫 How to reach me **aaditi7483@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
